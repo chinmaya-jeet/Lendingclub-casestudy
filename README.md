@@ -1,5 +1,8 @@
 # Lending Club Case Study
-> Outline a brief description of your project.
+> The objective of the program is to understand how the consumer attributes and loan
+attributes influence the tendency of default by using Exploratory Data Analysis (EDA).
+Identifying the risky application will help companies to reduce such loans there by
+cutting down on credit loss.
 
 
 ## Table of Contents
@@ -12,37 +15,34 @@
 
 ## General Information
 - Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This Project contains Presentation for How can a company or bank can utlize the customer history to decide on loan approval.
+- Help the financial institutions to avoid financial and business less by taking informed decisions during loan approval.
+- We used the customer loan dataset which has history of past transactions of the customers
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Based on multiple analysis (both uni and bi-variate), we extracted the insights which can be used to decide if a loan should be approved.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python 3.12
+- Jupyter Notebook
+- Matplotlib
+- Pandas
+- Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- Thanks to UpGrad for the CaseStudy
+- Thanks to Savan for support
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@chinmayajeet], Savan - feel free to contact me!
 
 
 <!-- Optional -->
