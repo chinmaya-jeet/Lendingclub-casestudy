@@ -42,7 +42,7 @@ Give credit here.
 - Thanks to Savan for support
 
 ## Contact
-Created by [@chinmayajeet], Savan - feel free to contact me!
+Created by [@chinmaya-jeet], Savan - feel free to contact me!
 
 
 <!-- Optional -->
